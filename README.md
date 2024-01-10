@@ -1,2 +1,2 @@
-# QIDI_X-PLUS3
+# QIDI_X-PLUS3_rgnd
  Repo qiditech x-plus3 rgnd
