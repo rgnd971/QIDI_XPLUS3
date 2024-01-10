@@ -1,0 +1,31 @@
+
+[fila]
+enable                         = 1
+
+
+[led]
+enable                         = 1
+
+
+[beep]
+enable                         = 0
+
+
+[target]
+extruder                       = 222
+heaterbed                      = 60
+hot                            = 55
+
+
+[babystep]
+value                          = -1.320000
+
+
+[total]
+time                           = 2131
+
+
+[oobe]
+enable                         = 0
+
+
